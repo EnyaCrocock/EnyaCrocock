@@ -1,5 +1,8 @@
-### Hi there 👋
+## 👋🏼 Hola! I'm Enya
 
+- ✈ I'm a recent Tourism Graduate making my way into the data world
+- 📚 
+- 
 <!--
 **EnyaCrocock/EnyaCrocock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
