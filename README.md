@@ -1,8 +1,11 @@
 ## 👋🏼 Hola! I'm Enya
 
-- ✈ I'm a recent Tourism Graduate making my way into the data world
-- 📚 
-- 
+- ✈ Recent Tourism Graduate making my way into the data world
+- 📚 Completed the: **Google Data Analytics Professional Certificate** and taken various courses on **Excel, Tableau, SQL and Statistics**
+- 📝 Currently working on: some portfolio projects 
+- 💻 Currently learning: **R & Power BI** & revisiting Tableau 
+- 🌲 Some facts: I'm Spanish/Irish and I love reading, walking and travelling to nordic countries 
+
 <!--
 **EnyaCrocock/EnyaCrocock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
