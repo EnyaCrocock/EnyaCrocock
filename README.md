@@ -2,8 +2,8 @@
 
 - ✈ Recent Tourism Graduate making my way into the data world
 - 📚 Completed: **Google Data Analytics Professional Certificate** and taken various courses on **Excel, Tableau, SQL and Statistics**
-- 📝 Currently working on: portfolio projects 
-- 💻 Currently learning: **R & Power BI** & revisiting Tableau 
+- 📝 Currently working on: Portfolio projects 
+- 💻 Currently learning: **R & Power BI**, and revisiting Tableau 
 - 🌲 Some facts: I'm Spanish/Irish and I love reading, walking and travelling to nordic countries 
 
 <!--
