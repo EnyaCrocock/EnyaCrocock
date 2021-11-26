@@ -6,6 +6,8 @@
 - 💻 Currently learning: **R & Power BI**, and revisiting Tableau 
 - 🌲 Some facts: I'm Spanish/Irish and I love reading, walking and travelling to nordic countries 
 
+![](https://komarev.com/ghpvc/?username=EnyaCrocock)
+
 <!--
 **EnyaCrocock/EnyaCrocock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
