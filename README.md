@@ -1,7 +1,7 @@
 ## 👋🏼 Hola! I'm Enya
 
 - ✈ Recent Tourism Graduate making my way into the data world
-- 📚 Completed: **Google Data Analytics Professional Certificate** and taken various courses on **Excel, Tableau, SQL and Statistics**
+- 📚 Completed: **Google Data Analytics Professional Certificate** and taken various courses on **Excel, Power BI, Tableau, SQL and Statistics**
 - 📝 Currently working on: Portfolio projects 
 - 🌲 Some facts: I'm Spanish/Irish and I love reading, walking and travelling to nordic countries 
 
