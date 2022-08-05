@@ -3,7 +3,6 @@
 - ✈ Recent Tourism Graduate making my way into the data world
 - 📚 Completed: **Google Data Analytics Professional Certificate** and taken various courses on **Excel, Power BI, Tableau, SQL and Statistics**
 - 📝 Currently working on: Portfolio projects 
-- 🌲 Some facts: I'm Spanish/Irish and I love reading, walking and travelling to nordic countries 
 - 🔗 Find me:
      [LinkedIn](https://www.linkedin.com/in/enyacrocock/) 
 <!--
